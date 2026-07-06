@@ -1,0 +1,84 @@
+Por favor, procesa el contenido correspondiente al BLOQUE 1 para iniciar la
+reconstrucción profesional del solucionario, ejecutando de forma estricta el
+sistema jerárquico cargado en tus System Instructions.
+
+Sección: Movimiento Rectilíneo Uniforme (M.R.U.). Rango: Ejercicios del 1 al 10.
+
+REGLA DE CONTROL DE ESTILOS (ANTI-ALUCINACIÓN): Para cumplir con la prohibición
+de estilos inline (Punto 15.2), debes incluir obligatoriamente al inicio de tu
+respuesta este bloque único de código  global. Queda estrictamente prohibido
+usar el color verde. Utiliza únicamente esta paleta corporativa:
+
+Asegura el cierre milimétrico de cada etiqueta  estructurada para evitar páginas
+en blanco o desbordes verticales.
+
+Procesa de forma íntegra los siguientes enunciados:
+
+Ejercicio 1: Un corredor recorre con M.R.U. una pista recta de 100 m en 10 s.
+Calcular su velocidad en m/s y cm/s. DATOS: d = 100 m; t = 10 s. DESARROLLO: v =
+d/t = 100 m / 10 s = 10 m/s. En cm/s: v = 10000 cm / 10 s = 1000 cm/s.
+Resultado: 10 m/s y 1000 cm/s
+
+Ejercicio 2: Un ciclista se mueve con M.R.U. a razón de 5 m/s. ¿Qué distancia
+podrá recorrer en un cuarto de hora? DATOS: v = 5 m/s; t = 15 min = 900 s.
+DESARROLLO: d = v * t = 5 m/s * 900 s = 4500 m. d = 4.5 km. Resultado: 4.5 km
+
+Ejercicio 3: El sonido se propaga en el aire con una velocidad de 340 m/s. ¿Qué
+tiempo tardará en escucharse el estampido de un cañón situado a 17 km? DATOS: v
+= 340 m/s; d = 17 km = 17000 m. DESARROLLO: t = d / v = 17000 m / 340 m/s = 50
+s. Resultado: 50 s
+
+Ejercicio 4: Un trueno se ha oído 50 s después de verse el relámpago. ¿A qué
+distancia se ha producido el fenómeno? DATOS: t = 50 s; v = 340 m/s (velocidad
+del sonido). DESARROLLO: d = v * t = 340 m/s * 50 s = 17000 m. d = 17 km.
+Resultado: 17 km
+
+Ejercicio 5: La bola en una mesa de billar (ida y vuelta). INTERPRETACIÓN
+FÍSICA: El problema plantea un movimiento de ida y vuelta. Para que la bola
+regrese al punto de origen, debe recorrer la longitud de la mesa dos veces (ida
+y regreso). DATOS: L = 2.5 m (largo de la mesa); t_total = 10 s. DESARROLLO
+MATEMÁTICO: d_total = 2 * L = 2 * 2.5 m = 5 m. v = d_total / t_total = 5 m / 10
+s = 0.5 m/s. RAZONAMIENTO: La velocidad calculada es la rapidez constante
+necesaria para completar el trayecto de 5 metros en el tiempo estipulado. Si se
+considera solo la ida, tardaría 5 segundos a 0.5 m/s. Resultado: 0.5 m/s
+
+Ejercicio 6: La velocidad de la luz es de 300,000 km/s. Calcular el tiempo
+empleado por un rayo luminoso en recorrer el Ecuador terrestre
+(longitud 40,000,000 m). DATOS: v = 300,000 km/s; d = 40,000,000 m = 40,000 km.
+DESARROLLO: t = d / v = 40,000 km / 300,000 km/s ≈ 0.1333 s. Resultado: 0.133 s
+
+Ejercicio 7: Un cuerpo se mueve con una velocidad de 0.2 km/s. Calcular la
+distancia que recorre en 4 s. DATOS: v = 0.2 km/s = 200 m/s; t = 4 s.
+DESARROLLO: d = v * t = 200 m/s * 4 s = 800 m. Resultado: 800 m
+
+Ejercicio 8: Análisis de posición relative de dos móviles. INTERPRETACIÓN
+FÍSICA: Se analiza la posición relativa de dos móviles que parten del mismo
+punto. La distancia entre ellos depende de si sus vectores velocidad tienen el
+mismo sentido o sentidos opuestos. DATOS: v1 = 60 km/h = 1 km/min; v2 = 80 km/h
+≈ 1.333 km/min; t = 50 min. DESARROLLO: d1 = 1 km/min * 50 min = 50 km. d2
+= 1.333 km/min * 50 min = 66.66 km. Caso (a) Mismo sentido: d_rel = |d2 - d1|
+= 66.66 - 50 = 16.66 km. Caso (b) Sentido contrario: d_total = d1 + d2 = 50
++ 66.66 = 116.66 km. Resultados: (a) 16.66 km; (b) 116.66 km
+
+Ejercicio 9: ANÁLISIS DE MOVIMIENTO RELATIVO. Problema de encuentro con desfase
+temporal. El tren A lleva una ventaja de 2 horas antes de que el tren B inicie
+su movimiento en una distancia total de 400 km. PARTE (A): UNO HACIA EL OTRO
+
+1.  Distancia recorrida por A en 2h: dA = 70 km/h * 2 h = 140 km.
+2.  Distancia restante: d_rest = 400 - 140 = 260 km.
+3.  Velocidad relativa (suma): v_rel = 70 + 100 = 170 km/h.
+4.  Tiempo de encuentro: t = 260 / 170 ≈ 1.529 h (1h 32min).
+5.  Distancia desde A: D = 140 + (70 * 1.529) ≈ 247 km. PARTE (B): EN EL MISMO
+    SENTIDO (B PERSIGUE A A)
+6.  Velocidad relativa (resta): v_rel = 100 - 70 = 30 km/h.
+7.  Tiempo para alcanzar: t = 400 / 30 ≈ 13.33 h.
+8.  Sumando el adelanto de A: t_total = 13.33 + 2 = 15.33 h (15h 20min).
+9.  Distancia recorrida por B: D = 100 * 15.33 = 1533 km. Resultados:
+    R(a): 1h 32min, 247 km de A | R(b): 15h 20min, 1533 km de A
+
+Ejercicio 10: Un automóvil recorre 350 km en 7 horas. Calcular su velocidad
+media. DATOS: d = 350 km; t = 7 h. DESARROLLO: v_m = d / t = 350 km / 7 h = 50
+km/h. Resultado: 50 km/h
+
+Entrega el resultado exclusivamente en bloques de código HTML/CSS limpios con
+soporte MathJax.
