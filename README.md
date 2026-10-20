@@ -161,5 +161,4 @@ Author
 
 Ramón Abel Franco López
 
-Systems Engineering Student — Universidad de Guayaq
-GitHub: [abelestudiosys](https://github.com/abelestudiosys)
+Background in Systems Engineering (Universidad de Guayaquil). GitHub: abelestudiosys
