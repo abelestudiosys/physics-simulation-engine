@@ -678,6 +678,3 @@ lógica física
 lógica visual
 lógica de exportación
 lógica de escalabilidad
-
-System_final_corregido(1).txt
-Mostrando System_final_corregido(1).txt.
